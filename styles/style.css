@@ -388,7 +388,7 @@
   flex-direction: column;
 }
 
-.footer__column_heading {
+.footer__column-heading {
   display: flex;
   margin: 0;
   padding: 0;
@@ -398,7 +398,7 @@
   color: #fff;
 }
 
-.footer__column_links {
+.footer__column-links {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
@@ -407,7 +407,7 @@
   list-style-type: none;
  }
 
-.footer__column_link {
+.footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
